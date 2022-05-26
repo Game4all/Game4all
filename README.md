@@ -7,28 +7,38 @@
 - :book: I'm currently studying for an electronics / software engineering degree.
 - :sparkling_heart: I love programming, hence why I'm here.
 
-### Languages I learned (for fun I guess?)
+### `Tech I know and use :`
 <br/>
 
-<i class="devicon-csharp-plain colored" style="font-size: 80;"></i>
-<i class="devicon-cplusplus-plain colored" style="font-size: 80;"></i>
-<i class="devicon-c-plain colored " style="font-size: 80;"></i>
-<i class="devicon-arduino-plain colored" style="font-size: 80;"></i>
-<i class="devicon-rust-plain colored" style="font-size: 80;"></i>
-<i class="devicon-java-plain colored" style="font-size: 80;"></i>
-<i class="devicon-javascript-plain colored" style="font-size: 80;"></i>
-<i class="devicon-typescript-plain colored" style="font-size: 80;"></i>
-<i class="devicon-godot-plain colored" style="font-size: 80;"></i>
-<i class="devicon-lua-plain colored" style="font-size: 80;"></i>
+<div style="display: table;">
+  <img width="64" height="64"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img  width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
+</div>
 
 <br/>
+
+### `Text editors:`
+<br/>
+<div style="display: table;">
+<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+</div>
+          
+          
 
 
 # :star: Interests
 
 - :sparkling_heart: I have an interest for computer graphics, game development and procedural generation.
 
-- I have an obession with particle physics and voxel based-games :ice_cube:.
+- I have an obession with particle physics and voxel-based games :ice_cube:.
 
 - Anime is great.
 
@@ -36,4 +46,4 @@
 
 - I'm maintaining  <a href="https://github.com/Game4all/gamebosu">a custom ruleset for osu!lazer </a> that allows one to play gameboy games in osu! called ... gamebosu! That's useless right ?
 
-- I'm currently working on building a  <a href="https://github.com/Game4all/vx_bevy">voxel engine with physics using the awesome and flexible bevy game engine </a>.
+- I'm currently working on building a  <a href="https://github.com/Game4all/vx_bevy">voxel engine with cellular automata-based physics using the awesome and flexible bevy game engine </a>.
