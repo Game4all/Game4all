@@ -44,8 +44,6 @@
 
 ## :test_tube: Current "active" projects
 
-- I'm maintaining  <a href="https://github.com/Game4all/gamebosu">a custom ruleset for osu!lazer </a> that allows one to play gameboy games in osu! called ... gamebosu! That's useless right ?
-
 - I'm currently working on building a  <a href="https://github.com/Game4all/vx_bevy">voxel engine with cellular automata-based physics using the awesome and flexible bevy game engine </a>.
 
 ![](https://komarev.com/ghpvc/?username=Game4all&color=orange)
