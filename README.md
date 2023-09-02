@@ -44,6 +44,6 @@
 
 ## :test_tube: Current "active" projects
 
-- I'm currently working on building a  <a href="https://github.com/Game4all/vx_bevy">voxel engine with cellular automata-based physics using the awesome and flexible bevy game engine </a>.
+✈
 
 ![](https://komarev.com/ghpvc/?username=Game4all&color=orange)
