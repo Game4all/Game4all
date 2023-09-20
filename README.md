@@ -4,8 +4,6 @@
 
 # :book: About me
 - :boy: My name is Lucas, but I go by the name of _Game4all_ on the internet
-- :book: I'm currently studying for an electronics / software engineering degree.
-- :sparkling_heart: I love programming, hence why I'm here.
 
 ### `Tech I know and use :`
 <br/>
