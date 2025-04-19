@@ -9,8 +9,9 @@
 <br/>
 
 <div style="display: table;">
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
   <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" />
-  <img width="64" height="64"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img  width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
