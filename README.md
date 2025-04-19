@@ -42,8 +42,5 @@
 
 - Anime is great.
 
-## :test_tube: Current "active" projects
-
-✈
 
 ![](https://komarev.com/ghpvc/?username=Game4all&color=orange)
